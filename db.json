@@ -1,0 +1,14 @@
+{
+  "posts": [
+    {
+      "title": "React Query",
+      "description": "react query is awesome ",
+      "id": 6
+    },
+    {
+      "title": "TypeScript",
+      "description": "it is superset of javascript",
+      "id": 7
+    }
+  ]
+}
